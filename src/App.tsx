@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import * as C from './App.styles';
 
 const App = () => {
